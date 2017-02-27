@@ -5,6 +5,8 @@ is handled by SpringFox, a 3rd party library for enabling Swagger on Spring MVC 
 
 For more information on SpringFox, pleas visit [http://springfox.io](http://springfox.io)
 
+Pushing APIs into IBM API Connect tutorial: [https://www.youtube.com/watch?v=F_RN5sTbu4A](https://www.youtube.com/watch?v=F_RN5sTbu4A)
+
 ## Building
 
 This project requires Java 7 or greater.
